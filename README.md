@@ -100,11 +100,17 @@ streamlit run app.py
 ```
 
 
-## 📷 Application Preview
+## 📸 Demo
 
-<img width="100%" alt="CrediSight Demo" src="assets/demo.png">
+### Home Screen
 
----
+![Home Screen 1](assets/homepage/homepage1.png)
+
+![Home Screen 2](assets/homepage/homepage2.png)
+
+### Prediction Result
+
+![Prediction Result](assets/result/result.png)
 
 ## 👩‍💻 Author
 

@@ -73,6 +73,33 @@ Built using a Random Forest Classifier and deployed with Streamlit, CrediSight a
 
 ---
 
+## Running the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Aarusheee31/CrediSight.git
+cd CrediSight
+```
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `Cred_mod.ipynb` and run all cells to generate:
+
+   * `creditiq_model.pkl`
+   * encoder files
+
+4. Launch the application
+
+```bash
+streamlit run app.py
+```
+
+
 ## 📷 Application Preview
 
 <img width="100%" alt="CrediSight Demo" src="assets/demo.png">

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Model Files (optional)
+# Uncomment if models are too large
+
+# *.joblib
+
+# Data Files (optional)
+# Uncomment if dataset shouldn't be uploaded
+*.pkl
+# *.csv
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.pytest_cache/
